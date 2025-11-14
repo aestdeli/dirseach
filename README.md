@@ -95,11 +95,11 @@ dirsearch -u https://example.com -e php -o result.txt
 
 🧠 Dirsearchning afzalliklari
 
-✔ Python-da yozilgan — juda moslashuvchan
-✔ Tez (ko‘p iplar bilan)
-✔ Katta wordlist qo‘llaydi
-✔ Proxy (Burp) orqali trafikni ko‘rish mumkin
-✔ JSON, text, CSV output chiqaradi
+  - ✔ Python-da yozilgan — juda moslashuvchan
+  - ✔ Tez (ko‘p iplar bilan)
+  - ✔ Katta wordlist qo‘llaydi
+  - ✔ Proxy (Burp) orqali trafikni ko‘rish mumkin
+  - ✔ JSON, text, CSV output chiqaradi
 
 ---
 
