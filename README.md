@@ -1,0 +1,1 @@
+##dirsearch — bu Python-da yozilgan, tezkor va kuchli web-directory va file discovery (fuzzing) vositasi. Web-pentestingda yashirin papkalar, fayllar, backuplar, admin panellar va boshqa resurslarni topish uchun ishlatiladi.
