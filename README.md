@@ -79,13 +79,19 @@ Masalan, Burp bilan ishlatishda:
 ---
 
 🔍 Misol: oddiy scan
-```dirsearch -u https://example.com -e php,html -t 20```
+```
+dirsearch -u https://example.com -e php,html -t 20
+```
 
 🔍 Misol: har bir topilgan papkaga kirib tekshirish
-```dirsearch -u https://example.com -w common.txt -r ```
+```
+dirsearch -u https://example.com -w common.txt -r
+```
 
 🔍 Misol: natijalarni faylga yozish
-```dirsearch -u https://example.com -e php -o result.txt```
+```
+dirsearch -u https://example.com -e php -o result.txt
+```
 
 🧠 Dirsearchning afzalliklari
 
